@@ -1,5 +1,4 @@
-# template_A2
+# Programming Principles Assignment 2
 Sports N’ Stats System
 
-
-Please see Assignment2.pdf for instructions.
+A simple program written to display 
